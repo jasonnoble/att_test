@@ -1,0 +1,8 @@
+port:               4567
+phone_number:       4043941676
+api_key:            2ae0db5cbfd06ffe635b1f5965d61e4b
+secret_key:         4873344e143cf29b
+registration_id_1:  55605543
+registration_id_2:  774376
+tokens_file:        tokens
+FQDN:               https://api.att.com
